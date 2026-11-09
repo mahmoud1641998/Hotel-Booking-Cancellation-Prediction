@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit local cache
+.streamlit/cache/
+.streamlit/credentials.toml
