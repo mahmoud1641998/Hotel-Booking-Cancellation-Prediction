@@ -266,7 +266,7 @@ hotel-booking-prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/mahmoud1641998/Hotel-Booking-Cancellation-Prediction.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -385,7 +385,7 @@ The project has been uploaded to GitHub. Cloud deployment and online application
 
 AI & Data Science Instructor | Machine Learning
 
-[LinkedIn](https://www.linkedin.com/in/mahmoud-abdelnaby-6b53b9297)
+[LinkedIn](https://www.linkedin.com/in/mahmoud-abdelnaby-6b53b9297/)
 
 ---
 
